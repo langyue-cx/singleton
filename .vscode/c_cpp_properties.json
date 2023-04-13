@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "name": "windows-gcc-x86",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "d:/codepath/mingw/bin/../lib/gcc/mingw32/8.2.0/include/c++",
+        "d:/codepath/mingw/bin/../lib/gcc/mingw32/8.2.0/include/c++/mingw32",
+        "d:/codepath/mingw/bin/../lib/gcc/mingw32/8.2.0/include/c++/backward",
+        "d:/codepath/mingw/bin/../lib/gcc/mingw32/8.2.0/include",
+        "d:/codepath/mingw/bin/../lib/gcc/mingw32/8.2.0/../../../../include",
+        "d:/codepath/mingw/bin/../lib/gcc/mingw32/8.2.0/include-fixed"
+      ],
+      "compilerPath": "D:/Codepath/mingw/bin/gcc.exe",//可能要改成mingw64
+      "cStandard": "c11",
+      "cppStandard": "c++11",
+      "intelliSenseMode": "windows-gcc-x86",
+      "compilerArgs": [
+        ""
+      ]
+    }
+  ],
+  "version": 4
+}
